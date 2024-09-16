@@ -1,6 +1,11 @@
 # Depth Estimation Using Depth-Anything-V2
 
+<img src="DepthOutputs/Depth_1.png" alt="Depth Result" width="500" height="500"/>
+<img src="DepthOutputs/Depth_2.png" alt="Depth Result" width="500" height="500"/>
+<img src="DepthOutputs/Depth_3.png" alt="Depth Result" width="500" height="500"/>
+
 ## Description
+
 This repo contains the testing code to run the mentioned repo as well combining it with threading and live video feed.
 
 ## Usage
